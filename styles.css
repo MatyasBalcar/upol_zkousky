@@ -46,11 +46,18 @@ a {
 }
 
 .dropbtn {
-    background-color: #a9aaa9;
+    background-color: #686868;
     color: rgb(0, 0, 0);
     font-size: 16px;
-    border: none;
+    color:azure;
+
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
     cursor: pointer;
+}
+.dropbtn:hover {
+    background-color: #ffffff;
+    color:rgb(0, 0, 0);
 }
 
 a:hover {
